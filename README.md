@@ -1,5 +1,5 @@
-# spotify-php-api
-A simple Spotify Web API, written with PHP
+# Spotify PHP API
+A simple Spotify Web API, written with PHP.
 
 Run with following command:
 ```
